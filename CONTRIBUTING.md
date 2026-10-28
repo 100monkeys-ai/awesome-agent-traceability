@@ -15,7 +15,7 @@ General agent frameworks, model APIs and evaluation leaderboards belong only whe
 - Link the canonical repository, specification or paper page.
 - Describe what the project does in neutral words. No marketing terms, no performance figures without a source, no tracking parameters.
 - The project must be public and documented. Open source is preferred; hosted products are accepted when their documentation backs the description.
-- Add the entry at the end of the most fitting section.
+- Add the entry to the most fitting section, in alphabetical order. Propose a new section in the pull request if none fits.
 
 ## Affiliation
 
