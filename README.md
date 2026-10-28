@@ -99,7 +99,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 ## Policy, guardrails and governance
 
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Microsoft's toolkit for agent policy enforcement, zero-trust identity, execution sandboxing and reliability engineering.
-- [AI Verify](https://github.com/aiverify-foundation/aiverify) - AI Verify Foundation's testing toolkit for checking AI systems against governance principles and producing reports.
+- [AI Verify](https://github.com/aiverify-foundation/aiverify) - Testing toolkit from the AI Verify Foundation for checking AI systems against governance principles and producing reports.
 - [Cedar](https://github.com/cedar-policy/cedar) - Policy language and evaluation engine for authorisation decisions that can be analysed and audited.
 - [Guardrails](https://github.com/guardrails-ai/guardrails) - Python framework that validates LLM inputs and outputs against declared validators.
 - [Invariant](https://github.com/invariantlabs-ai/invariant) - Guardrails for agent systems, written as rules over agent traces and tool calls.
