@@ -43,7 +43,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 
 - [Temporal](https://github.com/temporalio/temporal) - Durable execution service whose workflow event history records every step and lets a workflow be replayed deterministically.
 - [Restate](https://github.com/restatedev/restate) - Platform for durable, fault-tolerant services and workflows that journals each step so execution resumes after failures.
-- [DBOS Transact](https://github.com/dbos-inc/dbos-transact-py) - Python library for durable workflows that checkpoints each step in a Postgres database.
+- [DBOS Transact](https://github.com/dbos-inc/dbos-transact-py) - Python library for durable workflows that checkpoints each step in a PostgreSQL database.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Agent orchestration library with persisted checkpoints, which allow inspecting, resuming and replaying a run from a saved state.
 
 ## Policy, guardrails and governance
@@ -82,9 +82,3 @@ This list is maintained by 100monkeys.ai. We build the three projects below; the
 ## Contributing
 
 Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, 100monkeys.ai has waived all copyright and related or neighboring rights to this work.
