@@ -110,6 +110,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 
 ## MCP and tool security
 
+- [agent-audit-kit](https://github.com/sattyamjjain/agent-audit-kit) - Offline static scanner for MCP-connected agent pipelines that checks configuration and server source against detection rules and writes SARIF.
 - [agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [MCP Inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers that calls their tools, resources and prompts and shows the responses.
 - [ToolHive](https://github.com/stacklok/toolhive) - Platform for running and managing MCP servers in isolated containers with access controls.
