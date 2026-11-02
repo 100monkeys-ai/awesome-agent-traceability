@@ -130,6 +130,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 
 ## Agent memory and state
 
+- [Data Olympus](https://github.com/knaisoma/data-olympus) - Git-backed Markdown knowledge base and MCP server for coding agents, in which every change is a commit, replaced decisions stay linked to their successors through `supersedes` fields, and writes are appended to a hash-chained audit log.
 - [Graphiti](https://github.com/getzep/graphiti) - Framework for temporally aware knowledge graphs for agents, which record when each fact held and the episode it came from.
 - [Letta](https://github.com/letta-ai/letta) - Platform for stateful agents whose memory and state are persisted and can be inspected.
 - [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI agents that stores, updates and retrieves memories, with a history of changes to each memory.
