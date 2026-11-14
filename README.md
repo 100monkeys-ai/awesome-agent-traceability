@@ -138,6 +138,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 
 - [Agenta](https://github.com/Agenta-AI/agenta) - Open-source workspace for building agents and LLM applications with prompt versioning, evaluation and tracing.
 - [AgentDojo](https://github.com/ethz-spylab/agentdojo) - Environment for evaluating prompt injection attacks and defences on tool-using LLM agents.
+- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Synthetic recovery-testing harness that records tool calls, checks completion claims against persisted ticket state and exports local replay and comparison reports.
 - [ControlArena](https://github.com/UKGovernmentBEIS/control-arena) - UK AI Security Institute's settings and protocols for AI control experiments, built on Inspect.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Framework for unit-testing LLM outputs and agents with metrics, with tracing of components.
 - [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner that probes models and logs every attempt and result.
