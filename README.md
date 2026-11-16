@@ -35,6 +35,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 - [OpenTelemetry semantic conventions for generative AI](https://opentelemetry.io/docs/specs/semconv/gen-ai/) - Shared attribute and span names for model calls, agent steps and tool invocations, so traces from different frameworks can be read the same way.
 - [SCITT](https://datatracker.ietf.org/wg/scitt/about/) - IETF working group on Supply Chain Integrity, Transparency and Trust, defining signed statements registered in append-only transparency services.
 - [SLSA](https://slsa.dev/) - Framework of levels and requirements for build provenance, describing how an artifact was produced and by what.
+- [TRACES.md](https://github.com/MaxonT/TRACES.md) - Plain-text format for per-task agent trace files, one line per operation with its tool, action and result, plus a CLI that validates traces and flags a failure recorded as ok.
 - [W3C PROV-O](https://www.w3.org/TR/prov-o/) - W3C ontology for expressing provenance: which agent carried out which activity that used or generated which entity.
 
 ## Regulation, frameworks and policy
