@@ -79,6 +79,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Proxy for agent-to-tool and agent-to-agent traffic over MCP and A2A, with authorisation policy and observability.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Gateway and SDK that calls many LLM APIs in one format, with logging callbacks, cost tracking and guardrails.
+- [Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API) - Self-hosted gateway for calling coding agents through a common API, with recorded tool approvals and run events that can be read again from a saved cursor.
 - [Portkey Gateway](https://github.com/Portkey-AI/gateway) - AI gateway that routes requests to many LLM providers, with guardrails and request logging.
 - [Traceloop Hub](https://github.com/traceloop/hub) - LLM gateway written in Rust that emits OpenTelemetry traces for each request.
 
