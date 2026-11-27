@@ -126,6 +126,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 - [microsandbox](https://github.com/superradcompany/microsandbox) - Local-first microVM runtime and library for running untrusted code.
 - [nsjail](https://github.com/google/nsjail) - Process isolation tool built on Linux namespaces, cgroups, resource limits and seccomp-bpf filters.
 - [Sandbox Runtime](https://github.com/anthropics/sandbox-runtime) - Anthropic's tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without a container.
+- [Sandscale](https://sandscale.dev/docs/concepts/audit) - Hosted Firecracker microVM sandboxes for coding agents that write every sandbox, command, approval, secret and change to a hash-chained audit log, and export run traces over OTLP.
 - [Wasmtime](https://github.com/bytecodealliance/wasmtime) - WebAssembly runtime that runs code with only the capabilities the host grants it.
 
 ## Agent memory and state
