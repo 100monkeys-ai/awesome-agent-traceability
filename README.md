@@ -167,6 +167,7 @@ Entries are chosen for what they make traceable, not for popularity. Each descri
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) - Google DeepMind's reference implementation of a watermark for generated text and its detector.
 - [Tessera](https://github.com/transparency-dev/tessera) - Go library for building tile-based transparency logs.
 - [Trillian](https://github.com/google/trillian) - Verifiable data store built on Merkle trees, used to run transparency logs.
+- [verifiable-log](https://github.com/Kopachelli/verifiable-log) - Append-only, SHA-256 hash-chained log for agent actions and audit trails, with pluggable stores and standalone verification.
 
 ## Papers
 
